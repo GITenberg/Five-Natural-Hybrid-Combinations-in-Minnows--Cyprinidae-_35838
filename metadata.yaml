@@ -8,16 +8,18 @@ creator:
   - agent_name: Minckley, W. L.
     alias: Minckley, Wendell Lee
     birthdate: 1935
-    deathdate: &id001 2001
+    deathdate: 2001
     gutenberg_agent_id: '37931'
     url: http://www.gutenberg.org/2009/agents/37931
   - agent_name: Cross, Frank B. (Frank Bernard)
     alias: Cross, Frank Bernard
     birthdate: 1925
-    deathdate: *id001
+    deathdate: 2001
     gutenberg_agent_id: '37930'
     url: http://www.gutenberg.org/2009/agents/37930
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35838#Five-Natural-Hybrid-Combinations-in-Minnows--Cyprinidae-
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild
